@@ -4,3 +4,6 @@ console.log("Hi");
 
 
 console.log("Bug fix");
+
+
+console.log("Bug fix 2");
